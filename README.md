@@ -1,1 +1,1 @@
-![Rayhan GitHub stats](https://github-readme-stats.vercel.app/api?username=RayhanRamadhani&theme=transparent&show_icons=true)
+Jack of all trades, master of none.
